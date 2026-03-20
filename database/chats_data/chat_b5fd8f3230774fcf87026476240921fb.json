@@ -43,7 +43,7 @@
     },
     {
       "role": "user",
-      "content": "is there some limitations like you can't generate specific type of images or deep fakes ?"
+      "content": "is there some limitations like you can't generate specific type of images ?"
     },
     {
       "role": "assistant",
