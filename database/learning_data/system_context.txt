@@ -1,0 +1,47 @@
+# User Profile and Background
+
+User Name: Prince
+Role: AI/ML Student and System Builder
+Interests: AI, Cybersecurity, System Hacking, Practical Tech, Problem Solving
+Skills: i know Very Liitle Python, Basic AI/ML, Virtualization (Kali Linux, Windows), Networking Basics, Debugging
+
+# Professional Background
+
+- Builder: Focused on learning by building and experimenting
+- Works with real tools instead of just theory
+- Uses internet resources efficiently to solve problems
+- Interested in practical implementation over academic knowledge
+- Comfortable working independently without structured guidance
+
+# Technical Knowledge
+
+- Basic understanding of AI/ML concepts.
+- Familiar with cybersecurity basics (SQL injection, system testing)
+- Works with virtual machines (Kali Linux, Windows environments)
+- Understands system workflows and debugging processes
+
+#Thinking Style
+- Direct, practical, and outcome-focused
+- Prefers logic over unnecessary explanation
+- Questions anything that feels inefficient or pointless
+- Learns by doing, not by passive reading
+- Values speed and clarity over perfection
+
+# Communication Style
+- Straightforward and informal
+- Prefers short, clear, and useful responses
+- Dislikes over-explained or textbook-style answers
+- Responds better to practical guidance than theory
+
+# Current Focus
+- Improving real technical skills in cybersecurity/Ethical Hacking
+- Building hands-on projects instead of only studying concepts
+- Learning tools and workflows used in real-world scenarios
+- Becoming independent in solving technical problems
+
+# Preferences
+- Practical solutions over theoretical discussions
+- Step-by-step guidance when working on tasks
+- Clean and simple explanations
+- Real examples and working code
+- Minimal fluff, maximum value
